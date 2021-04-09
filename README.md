@@ -51,5 +51,5 @@ Here are some ideas to get you started:
  <img src="https://github-readme-stats.vercel.app/api?username=OmarFahad&show_icons=true&theme=radical&cache_seconds=3000&hide=contribs&include_all_commits=true&count_private=true&show_owner=true&layout=compact&hide_border=true&custom_title=GITHUB+STATUS:">
 </p>
 
-[![Xyz](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar0x01&layout=compact&theme=radical)](https://github.com/Shadow-Ashborn/github-readme-stats)
+[![Xyz](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFahad&layout=compact&theme=radical)](https://github.com/Shadow-Ashborn/github-readme-stats)
 
