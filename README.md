@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OmarFahad&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
 <!--
 **omarfahad/omarfahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
