@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-[![Xyz](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFahad&layout=compact&theme=radical)]
+[![Xyz](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFahad&layout=compact&theme=radical)](https://github.com/Shadow-Ashborn/github-readme-stats)
 </p>
